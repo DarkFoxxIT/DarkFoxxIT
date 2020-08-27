@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 ## My name is... Camilla🇮🇹
+I'm currently learning on:
+   - Javascript ⚒️
+   - Python 🐍
+   - ASP.NET🌍
+
 
 
 <!--
